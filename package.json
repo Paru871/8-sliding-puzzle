@@ -1,0 +1,27 @@
+{
+  "name": "8-sliding-puzzle",
+  "version": "1.0.0",
+  "description": "This is a npm playing 8 sliding puzzle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paru871/8-sliding-puzzle.git"
+  },
+  "keywords": [
+    "8puzzle",
+    "puzzle",
+    "8-sliding-puzzle"
+  ],
+  "author": "paru871 <paru871871@gmail.com> (https://github.com/Paru871)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paru871/8-sliding-puzzle/issues"
+  },
+  "homepage": "https://github.com/Paru871/8-sliding-puzzle#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
