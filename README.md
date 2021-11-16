@@ -36,7 +36,7 @@ Let's complete this puzzle within 50 moves.
 ❯ 5
   6
 ```
-A solved 8-slideing-puzzle
+A solved 8-sliding-puzzle
 ```
   ---+---+---
    1   2   3
