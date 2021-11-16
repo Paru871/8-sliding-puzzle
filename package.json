@@ -1,6 +1,6 @@
 {
   "name": "8-sliding-puzzle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a npm playing 8 sliding puzzle.",
   "main": "index.js",
   "bin": {
