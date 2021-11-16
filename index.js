@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const { Select } = require('enquirer')
 const Space = ' '
 const MapData = {
   '00': ['01', '10'],
@@ -20,7 +21,6 @@ async function main () {
   for (let i = 1; i <= 50; i++) {
     const candidate = makeCandidate(array, spacePoint)
     const candidateArray = Object.keys(candidate).sort()
-    const { Select } = require('enquirer')
     const prompt = new Select({
       name: 'choseNumber',
       message: `[Select a number you want to move:] ${i}/50`,
