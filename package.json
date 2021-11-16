@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a npm playing 8 sliding puzzle.",
   "main": "index.js",
+  "bin": {
+    "8-sliding-puzzle": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

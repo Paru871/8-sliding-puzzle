@@ -9,7 +9,7 @@ $ npm install -g 8-sliding-puzzle
 ```
 
 ## rule
-- The 8 puzzle is a sliding puzzle having 8 square tiles numbered 1–8 in a frame that is 3 tiles high and 3 tiles wide, leaving one unoccupied tile position. 
+- This puzzle is a sliding puzzle having 8 square tiles numbered 1–8 in a frame that is 3 tiles high and 3 tiles wide, leaving one unoccupied tile position. 
 - Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. 
 - You can move it 50 times in one puzzle.
 - The goal of the puzzle is to place the tiles in numerical order.
@@ -36,7 +36,7 @@ Let's complete this puzzle within 50 moves.
 ❯ 5
   6
 ```
-A solved 8-puzzle
+A solved 8-slideing-puzzle
 ```
   ---+---+---
    1   2   3
