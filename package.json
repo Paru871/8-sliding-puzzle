@@ -1,6 +1,6 @@
 {
   "name": "8-sliding-puzzle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a npm playing 8 sliding puzzle.",
   "main": "index.js",
   "bin": {
@@ -26,5 +26,12 @@
   "homepage": "https://github.com/Paru871/8-sliding-puzzle#readme",
   "dependencies": {
     "enquirer": "^2.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1"
   }
 }
